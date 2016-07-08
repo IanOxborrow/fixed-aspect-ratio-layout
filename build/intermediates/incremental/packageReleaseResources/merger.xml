@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/src/main/res"/><source path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/build/generated/res/rs/release"/><source path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/build/generated/res/resValues/release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/src/release/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/src/main/res"><file path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="FixedAspectRatioRelativeLayout">
+        <attr format="integer" name="rl_aspect_ratio_width"/>
+        <attr format="integer" name="rl_aspect_ratio_height"/>
+        <attr format="string" name="rl_determining_side"/> <!-- can be set to vertical or horizontal -->
+    </declare-styleable><declare-styleable name="FixedAspectRatioLinearLayout">
+        <attr format="integer" name="ll_aspect_ratio_width"/>
+        <attr format="integer" name="ll_aspect_ratio_height"/>
+        <!--
+                <attr name="ll_determining_side" format="string">
+                    <string name="vertical" value="vertical" />
+                    <string name="horizontal" value="horizontal" />
+                </attr>
+         -->
+                <attr format="string" name="ll_determining_side"/> <!-- can be set to vertical or horizontal-->
+    </declare-styleable></file><file path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Fixed Aspect Ratio Layout</string></file></source><source path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/build/generated/res/rs/release"/><source path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/build/generated/res/resValues/release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="/Users/Ian/Google Drive/Workspace/StudioProjects/Volumate/Volumate/fixedaspectratiolayout/src/release/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FixedAspectRatioRelativeLayout"><attr format="integer" name="rl_aspect_ratio_width"/><attr format="integer" name="rl_aspect_ratio_height"/><attr format="string" name="rl_determining_side"/></declare-styleable><declare-styleable name="FixedAspectRatioLinearLayout"><attr format="integer" name="ll_aspect_ratio_width"/><attr format="integer" name="ll_aspect_ratio_height"/><attr format="string" name="ll_determining_side"/></declare-styleable></configuration></mergedItems></merger>

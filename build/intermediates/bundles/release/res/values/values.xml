@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FixedAspectRatioLinearLayout"><attr format="integer" name="ll_aspect_ratio_width"/><attr format="integer" name="ll_aspect_ratio_height"/><attr format="string" name="ll_determining_side"/></declare-styleable>
+    <declare-styleable name="FixedAspectRatioRelativeLayout"><attr format="integer" name="rl_aspect_ratio_width"/><attr format="integer" name="rl_aspect_ratio_height"/><attr format="string" name="rl_determining_side"/></declare-styleable>
+    <string name="app_name">Fixed Aspect Ratio Layout</string>
+</resources>

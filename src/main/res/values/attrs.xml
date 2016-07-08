@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FixedAspectRatioRelativeLayout">
+        <attr name="rl_aspect_ratio_width" format="integer"/>
+        <attr name="rl_aspect_ratio_height" format="integer"/>
+        <attr name="rl_determining_side" format="string" /> <!-- can be set to vertical or horizontal -->
+    </declare-styleable>
+
+    <declare-styleable name="FixedAspectRatioLinearLayout">
+        <attr name="ll_aspect_ratio_width" format="integer"/>
+        <attr name="ll_aspect_ratio_height" format="integer"/>
+        <attr name="ll_determining_side" format="string" /> <!-- can be set to vertical or horizontal-->
+    </declare-styleable>
+</resources>

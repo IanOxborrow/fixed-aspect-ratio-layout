@@ -9,7 +9,9 @@ Add dependence to build.gradel:
     dependencies {
       compile 'com.github.IanOxborrow:fixed-aspect-ratio-layout:1.0.0’
     }
-
+If this method gives you a "failed to resolve" error, then download the project to your computer and import it as a module via
+ 
+        File -> New -> Import Module
 
 
 Sample Usage

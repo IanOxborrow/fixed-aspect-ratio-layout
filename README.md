@@ -7,7 +7,7 @@ Usage
 Add dependence to build.gradel:
 
     dependencies {
-      compile 'com.github.IanOxborrow:fixed-aspect-ratio-layout:-SNAPSHOT'
+      compile 'com.github.IanOxborrow:fixed-aspect-ratio-layout:1.0.0’
     }
 
 
